@@ -133,4 +133,6 @@ else:
             st.download_button("匯出 XLSX", buf, file_name=f"結果_{sel_name}.xlsx")
 
 # 底部
-st.markdown("由 資訊中心 建立")
+st.markdown("由 Manus AI 建立")
+
+#streamlit run streamlit_app.py
