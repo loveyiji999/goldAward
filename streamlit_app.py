@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import os, glob
 from io import BytesIO
-import openpyxl
 # 設定頁面標題與佈局
 st.set_page_config(page_title="📊 XLSX 檔案查詢工具", layout="wide")
 
